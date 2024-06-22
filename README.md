@@ -13,6 +13,6 @@ My academic work has been primarily in computer science, linguistics, and the ov
 
 My educational experience includes software engineering, computer security, programming in various languages, and data analysis. I am skilled in technical problem solving, abstract thinking, and critical analysis. My data work has appeared in several publications.
 
-I have experience with linguistics, both formal and informal, and consider it one of my passions. My final project for my degree involved making an online dictionary of Navajo and required me to combine both my computer science and linguistics skills.
+I have experience with linguistics, both formal and informal, and consider it one of my passions. My final project for my degree involved making an online dictionary of Navajo and required me to combine both my computer science and linguistics skills. I hope to continue my linguistics education in gradutate school in the future.
 
 My portfolio includes a variety of projects I have done that demonstrate my knowledge and abilities.
